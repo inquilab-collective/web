@@ -1,5 +1,5 @@
 ---
-title: "Inquilab"
+title: ""
 headless: true
 ---
 
