@@ -1,5 +1,6 @@
 body {
     background-image: url("/images/inquilab-img.png");
+    background-size: auto;
     background-repeat: no-repeat;
     background-position: top;
 }
