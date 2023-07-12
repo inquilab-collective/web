@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-Inquilab is invested in generating community-centered critiques of culture, economy, and politics of technology as we simultaneously design and develop technologies of resistance and accountability with communities most affected by the hegemonic practices of tech. Some of our current projects include:
+Inquilab is invested in generating community-centered critiques of culture, economy, and politics of technology, while simultaneously designing and developing technologies of resistance and accountability with communities otherwise affected by the hegemonic practices of tech. Some of our current projects include:
 
 **Research and/as Relation.**
 As an ongoing methodological exploration, this project aims to establish relational intimacy and allyship as a core method for responsible engineering and computing research. With this work, we intend to develop 1) a comprehensive understanding of how community-engaged researchers relate to their participants as they navigate competing commitments and responsibilities 2) a theory of community-centered methods for design and development that build upon the rhizomatic understanding of Relation. **NOTE**: **we are actively recruiting for this study**; if you are a community-engaged researcher affiliated with an university consider participating in this research by filling out this [form](https://docs.google.com/forms/d/1ZLlMqMUlcWVgauRSbQv5pKJj2KWcSwOIT4-Z3FqUZd0/edit).
