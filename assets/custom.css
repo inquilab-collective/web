@@ -3,3 +3,13 @@ body {
     background-repeat: no-repeat;
     background-position: top;
 }
+
+div.section p {
+    text-align: justify !important;
+    hyphens: auto;
+    font-size: 1.2rem;
+}
+
+a.navbar-item {
+    font-size: 1.2rem;
+}
