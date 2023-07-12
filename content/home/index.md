@@ -1,5 +1,5 @@
 ---
 title: ""
-headless: true
+headless: false
 ---
 
