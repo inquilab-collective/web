@@ -5,7 +5,7 @@ title: "Projects"
 As of 2025, ongoing inquiries at Inquilab center on the themes of **race and migration**, **agriculture**, and **labor**. In each context, we examine how state and market interests come into conflict with individuals, communities, and social movements—particularly through the lens of computation. We interrogate how computational logics are mobilized toward subjugation, while also tracing possibilities—and at times co-designing tools—for subversion, appropriation, and refusal, all in pursuit of computing otherwise. We often work hyper-locally, through ethnographic work in the Washington region and/or via long-term partnerships with social movements in the region and beyond.
 
 #### Race & migration
-This project aims to understand how computational tools (from google search to ankle monitors) often assume subject positions for its users based on race. We trace how (racially subjugated) migrant subjects of the State experience information technologies as extension of the State, while simulatenously analyzing how technologies of the State (in collaboration with the tech industry) manage to acheive such omnipresence. **People**: [Lubna Razaq](https://scholar.google.com/citations?user=KBMF4rwAAAAJ&hl=en)
+This project aims to understand how computational tools (from google search to ankle monitors) often assume subject positions for its users based on race. We trace how (racially subjugated) migrant subjects of the State experience information technologies as extension of the State, while simulatenously analyzing how technologies of the State (in collaboration with the tech industry) manage to acheive such omnipresence. **People:** [Lubna Razaq](https://scholar.google.com/citations?user=KBMF4rwAAAAJ&hl=en).
 
 #### Agriculture
 This project interrogates the state and market investments into smart argriculture. In partneship with local movements in the US Pacific Northwest, this project looks at how AI-based agricultural technologies flatten culturally heterogenous knowledge systems and expertise on food and farming in the name of resource optimization. How might we understand what drives such technosolutionist impulses from a city or an industry? What possibilities exist for diasporic knowledge systems of food and farming to subvert and/or refuse such erasure? 
@@ -13,19 +13,19 @@ This project interrogates the state and market investments into smart argricultu
 
 #### Labor
 
-**Higer-ed organizing.** One line of inquiry examines how automation—often implemented in place of institutional interventions such as AI task forces—reshapes the workplace in higher education. We explore how certain skills are devalued, replaced, or reimagined, and what opportunities remain for organized higher-ed workers to push back. **People:** [Joice Tang](https://joicetang.com/)
+**Higer-ed organizing.** One line of inquiry examines how automation—often implemented in place of institutional interventions such as AI task forces—reshapes the workplace in higher education. We explore how certain skills are devalued, replaced, or reimagined, and what opportunities remain for organized higher-ed workers to push back. **People:** [Joice Tang](https://joicetang.com/).
 
-                                                              ***
+***
                                                               
-**Data centers & cloud computing labor:** Another project investigates data centers as sites where computational power is concentrated—a defining feature of the global tech landscape with well-documented ecological impacts. Our focus here is on labor entanglements: how labor sustains, resists, or redefines these infrastructures, and how these dynamics invite us to think more expansively about computing labor, opening up new possibilities for organized resistance. **People:** [Anoolia Gakhokidze](https://ca.linkedin.com/in/anoolia-anny-gakhokidze-519a1775)
+**Data centers & cloud computing labor:** Another project investigates data centers as sites where computational power is concentrated—a defining feature of the global tech landscape with well-documented ecological impacts. Our focus here is on labor entanglements: how labor sustains, resists, or redefines these infrastructures, and how these dynamics invite us to think more expansively about computing labor, opening up new possibilities for organized resistance. **People:** [Anoolia Gakhokidze](https://ca.linkedin.com/in/anoolia-anny-gakhokidze-519a1775).
 
-                                                              ***                                                              
+***                                                              
 
 **Tech-worker organzing:** In a recently completed project, we began with the provocation: How are labor relations and worker consciousness shifting within the tech industry in the wake of the 2022–23 economic rupture? We theorize this moment of disillusionment among the tech managerial class as the cruel optimism of tech work. This project was funded by the National Science Foundation under award **People:** Samuel So. **Funding:** [NSF IIS-2327163](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327163&HistoricalAwards=false). **Media coverage:** [KUOW](https://www.kuow.org/stories/layoffs-lost-faith-and-cruel-optimism-in-tech), [Geekwire](https://www.geekwire.com/2025/cruel-optimism-mass-layoffs-take-the-shine-off-careers-in-the-tech-sector-uw-research-finds/), [The Daily](https://www.dailyuw.com/article/what-uw-students-should-know-before-entering-the-tech-industry-20250602).
 
   
   
-###other explorations, past & present
+#### _other explorations, past & present_
 
 #### Reseach and/as Relation
 As an ongoing methodological exploration, this project aims to establish relational intimacy and allyship as a core method for responsible engineering and computing research. With this work, we contribute: a comprehensive understanding of how community-engaged researchers relate to their participants as they navigate competing commitments and responsibilities, a theory of community-centered methods for design and development that build upon the rhizomatic understanding of Relation, while simultaneously negotiating institutional support within the University of Washington toward community-engaged computing research across the university. 
