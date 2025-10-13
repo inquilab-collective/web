@@ -10,7 +10,6 @@ This project interrogates the state and market investments into smart argricultu
 **People:** [McKane Andrus](https://scholar.google.com/citations?user=VSsTq14AAAAJ&hl=en) and [Hanna Barakat](https://www.hbarakat.com/). **Movement partner:** [The Silent Task Force](https://www.thesilenttaskforce.org). **Funding:** [NSF S&CC: Smart & Connected Commun, AISL, 2310515](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2310515&HistoricalAwards=false). 
 
 #### Labor
-Several ongoing projects converge on this track of inquiry. 
 
 **Culture of techwork.** In a recently completed project, we began with the provocation: How are labor relations and worker consciousness shifting within the tech industry in the wake of the 2022–23 economic rupture? We theorize this moment of disillusionment among the tech managerial class as "the cruel optimism of tech work". **People:** [Samuel So](https://samuelso.net). **Funding:** [NSF IIS-2327163](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327163&HistoricalAwards=false). **Media coverage:** [KUOW](https://www.kuow.org/stories/layoffs-lost-faith-and-cruel-optimism-in-tech), [Geekwire](https://www.geekwire.com/2025/cruel-optimism-mass-layoffs-take-the-shine-off-careers-in-the-tech-sector-uw-research-finds/), [The Daily](https://www.dailyuw.com/article/what-uw-students-should-know-before-entering-the-tech-industry-20250602).
 
