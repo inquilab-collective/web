@@ -2,13 +2,13 @@ body {
     background-image: url("/images/inquilab-cropped-square.jpg");
     background-size: auto;
     background-repeat: no-repeat;
-    background-color: lightblue;
     background-position: top 100px center;
 }
 
 div.section p {
     text-align: justify !important;
     hyphens: auto;
+    font-family: Garamond, "Times New Roman", Times, serif;
     font-size: 1.2rem;
 }
 
