@@ -34,7 +34,7 @@ title: "Publications"
 
 - J. Khadijah Abdurahman and Sucheta Ghoshal. 2021. Grieving in the face of fascism. interactions 28, 6 (November - December 2021), 32–35. https://doi.org/10.1145/3490146
 
-- J. Khadijah Abdurahman, Sucheta Ghoshal, Daniela Rosner, Alex Taylor, and Mikael Wiberg. 2021. (Un)making democracy. interactions 28, 6 (November - December 2021), 6–7. https://doi.org/10.1145/3492905
+- J. Khadijah Abdurahman, Sucheta Ghoshal, Daniela Rosner, Alex Taylor, and Mikael Wiberg. 2021. (Un)making democracy. Interactions 28, 6 (November - December 2021), 6–7. https://doi.org/10.1145/3492905
 
 
 ###### Other significant research dissemination
