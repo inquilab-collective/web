@@ -13,5 +13,6 @@ div.section p {
 }
 
 a.navbar-item {
+    font-family: Garamond, "Times New Roman", Times, serif;
     font-size: 1.5rem;
 }
