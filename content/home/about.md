@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Named after the [Urdu word for revolution](https://en.wikipedia.org/wiki/Inquilab_Zindabad) Inquilab is a research lab located at the [Human-Centered Design and Engineering Department](https://www.hcde.washington.edu/) of [University of Washington](https://www.washington.edu/). Inquilab is committed to community-centered approaches of research and inquiry---designing means of tech accountability in close partnership with local groups and organizations situated in Seattle and the greater Washington region. There are a number of active projects currently taking place in Inquilab, all converging at the overarching theme of critical computing. 
+Named after the [Urdu word for revolution](https://en.wikipedia.org/wiki/Inquilab_Zindabad) Inquilab is a critcial computing research lab located at the [Human-Centered Design and Engineering Department](https://www.hcde.washington.edu/) of [University of Washington](https://www.washington.edu/). 
+
+Our current research focuses on the themes of [race and migration](https://inquilab.cc/#race--migration), [agriculture](https://inquilab.cc/#agriculture), and [labor](https://inquilab.cc/#labor). Across these areas, we examine how state and market interests often come into conflict with individuals, communities, and social movements—especially through the lens of computation. We interrogate how computational logics are mobilized for subjugation, while also tracing possibilities—and at times co-designing tools—for subversion, appropriation, and refusal. These efforts are part of our broader commitment to imagining and building computing otherwise.
+
+Our work is often rooted in place: we conduct through ethnographic research in the Washington region and/or long-term partnerships with social movements both locally and beyond.
