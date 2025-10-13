@@ -4,9 +4,9 @@ title: "Publications"
 ###### Refereed archival journal publications
 
 
-- Joice Tang and Sucheta Ghoshal. 2025. Research and/as Relation: Documenting Experiences of Community-Collaborative Researchers in HCI. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 470 (November 2025), 28 pages. [ACM DL (Open Access)](https://doi.org/10.1145/3757651) **[Honorable mention](https://programs.sigchi.org/cscw/2025/program/content/210969)**
+- Joice Tang and Sucheta Ghoshal. 2025. Research and/as Relation: Documenting Experiences of Community-Collaborative Researchers in HCI. Proc. ACM Hum.-Comput. Interact. 9, 7, Article 470 (November 2025), 28 pages. [\[ACM DL (Open Access)\]](https://doi.org/10.1145/3757651) **[\[Honorable mention\]](https://programs.sigchi.org/cscw/2025/program/content/210969)**
 
-- McKane Andrus, Sucheta Ghoshal, and Sayamindu Dasgupta. 2025. From Data Activism to Activism in a Time of Data-Centrism: Affirming Epistemological Heterogeneity in Social Movements. Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW013 (April 2025), 32 pages. [\[ACM DL (Open Access)\]](https://doi.org/10.1145/3710911) **[Honorable mention](https://programs.sigchi.org/cscw/2025/program/content/211567)**
+- McKane Andrus, Sucheta Ghoshal, and Sayamindu Dasgupta. 2025. From Data Activism to Activism in a Time of Data-Centrism: Affirming Epistemological Heterogeneity in Social Movements. Proc. ACM Hum.-Comput. Interact. 9, 2, Article CSCW013 (April 2025), 32 pages. [\[ACM DL (Open Access)\]](https://doi.org/10.1145/3710911) **[\[Honorable mention\]](https://programs.sigchi.org/cscw/2025/program/content/211567)**
 
 - Ridley Jones LeDoux, Charlotte P. Lee, Sucheta Ghoshal, and Mark Haselkorn. 2024. Concept of Operations as Epistemic Object: The Sociotechnical Design Roles of a Systems Engineering Document. Proc. ACM Hum.-Comput. Interact. 8, CSCW1, Article 34 (April 2024), 31 pages. [\[ACM DL (Open Access)\]](https://doi.org/10.1145/3637311)
 
@@ -22,7 +22,7 @@ title: "Publications"
 
 - Lubna Razaq and Sucheta Ghoshal. 2024. What to the Muslim is Internet search: Digital Borders as Barriers to Information Seeking. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’24), May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 17 pages. [\[ACM DL (Open Access)\]](https://doi.org/10.1145/3613904.3642770)
 
-- Sucheta Ghoshal and Sayamindu Dasgupta. 2023. Design Values in Action: Toward a Theory of Value Dilution. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 2347–2361. [\[ACM DL (Open Access)\]](https://dl.acm.org/doi/10.1145/3563657.3596122)**[\[Best paper\]](https://dl.acm.org/doi/10.1145/3563657.3596122)**
+- Sucheta Ghoshal and Sayamindu Dasgupta. 2023. Design Values in Action: Toward a Theory of Value Dilution. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 2347–2361. [\[ACM DL (Open Access)\]](https://dl.acm.org/doi/10.1145/3563657.3596122) **[\[Best paper\]](https://dl.acm.org/doi/10.1145/3563657.3596122)**
 
 
 ###### Conference proceedings and other non-journal articles (refereed by abstracts)
@@ -40,7 +40,7 @@ title: "Publications"
 ###### Other significant research dissemination
 
 
-- Rollins, O. (2024, December 10). Psychopathic Imaging: Linking Brain Scans to Criminal Behavior with Oliver Rollins (S. Ghoshal, Interviewer) [Web] (https://logicmag.io/out-of-place/psychopathic-imaging-linking-brain-scans-to-criminal-behavior-with-oliver/)
+- Rollins, O. (2024, December 10). Psychopathic Imaging: Linking Brain Scans to Criminal Behavior with Oliver Rollins (S. Ghoshal, Interviewer) [\[Web\]](https://logicmag.io/out-of-place/psychopathic-imaging-linking-brain-scans-to-criminal-behavior-with-oliver/)
 
 - Abdurahman, J. K., & Ghoshal, S. Letter from the Editor on Medicine and the Body in Tech. Logic(s) Magazine, 21.
 
