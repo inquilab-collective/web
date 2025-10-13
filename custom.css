@@ -12,6 +12,19 @@ div.section p {
     font-size: 1.2rem;
 }
 
+div.section h2 {
+    font-family: Garamond, "Times New Roman", Times, serif;
+}
+
+div.section h4 {
+    font-family: Garamond, "Times New Roman", Times, serif;
+}
+
+div.section h5 {
+    font-family: Garamond, "Times New Roman", Times, serif;
+}
+
+
 a.navbar-item {
     font-family: Garamond, "Times New Roman", Times, serif;
     font-size: 1.5rem;
