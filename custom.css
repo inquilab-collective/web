@@ -13,23 +13,24 @@ div.section p {
 }
 
 div.section h2 {
-    font-family: Garamond, "Times New Roman", Times, serif;
+    font-family: 'EB Garamond', serif;
+    color: red;
 }
 
 div.section h4 {
-    font-family: Garamond, "Times New Roman", Times, serif;
+    font-family: 'EB Garamond', serif;
 }
 
 div.section h5 {
-    font-family: Garamond, "Times New Roman", Times, serif;
+    font-family: 'EB Garamond', serif;
 }
 
 div.section h6 {
-    font-family: Garamond, "Times New Roman", Times, serif;
+    font-family: 'EB Garamond', serif;
 }
 
 
 a.navbar-item {
-    font-family: Garamond, "Times New Roman", Times, serif;
+    font-family: 'EB Garamond', serif;
     font-size: 1.5rem;
 }
