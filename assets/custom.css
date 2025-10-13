@@ -8,7 +8,7 @@ body {
 div.section p {
     text-align: justify !important;
     hyphens: auto;
-    font-family: Garamond, "Times New Roman", Times, serif;
+    font-family: 'EB Garamond', serif;
     font-size: 1.2rem;
 }
 
