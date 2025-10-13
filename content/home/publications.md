@@ -32,7 +32,7 @@ title: "Publications"
 
 - Joice Tang, McKane Andrus, Samuel So, Udayan Tandon, Andrés Monroy-Hernández, Vera Khovanskaya, Sean A. Munson, Mark Zachry, and Sucheta Ghoshal. 2023. Back to “Back to Labor” : Revisiting Political Economies of Computer-Supported Cooperative Work. In Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing (CSCW '23 Companion). Association for Computing Machinery, New York, NY, USA, 522–526. https://doi.org/10.1145/3584931.3611285
 
-- J. Khadijah Abdurahman and Sucheta Ghoshal. 2021. Grieving in the face of fascism. interactions 28, 6 (November - December 2021), 32–35. https://doi.org/10.1145/3490146
+- J. Khadijah Abdurahman and Sucheta Ghoshal. 2021. Grieving in the face of fascism. Interactions 28, 6 (November - December 2021), 32–35. https://doi.org/10.1145/3490146
 
 - J. Khadijah Abdurahman, Sucheta Ghoshal, Daniela Rosner, Alex Taylor, and Mikael Wiberg. 2021. (Un)making democracy. Interactions 28, 6 (November - December 2021), 6–7. https://doi.org/10.1145/3492905
 
